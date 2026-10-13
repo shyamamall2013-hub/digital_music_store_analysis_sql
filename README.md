@@ -153,6 +153,8 @@ MySQL-Data-Analytics/
 ## 👤 Author
 
 **Shyama Mall**
-Linkedin - www.linkedin.com/in/contactshyamamall
-GitHub - https://github.com/shyamamall2013-hub
+
+**Linkedin** - www.linkedin.com/in/contactshyamamall
+
+**GitHub** - https://github.com/shyamamall2013-hub
 
